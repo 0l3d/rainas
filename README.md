@@ -19,4 +19,4 @@ gcc rainas.o -o rainas
 
 # Author
 
-Created By **oled**
+Created By **0l3d**
